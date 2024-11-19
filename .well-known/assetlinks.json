@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.atomicloops.hrai",
+            "sha256_cert_fingerprints": [
+                "67:1f:22:91:d2:b5:6a:26:1a:17:42:6e:39:74:1f:83:d0:35:5c:df:4d:87:cc:e5:07:72:cc:f1:40:1d:c3:e5"
+            ]
+        }
+    }
+]
